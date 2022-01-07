@@ -1,3 +1,3 @@
-const hello = () => {
+const helloGit = () => {
   alert("Hello from Git!");
 };
